@@ -132,9 +132,9 @@ Connect-Four-/
 
 | Name | Roll Number | Responsibilities |
 |---|---|---|
-| Faiza Usmani | 24K-2006 | AI algorithms, heuristic evaluation, testing, and performance analysis |
-| Rabia Hakeem | 24K-2042 | Board logic, legal moves, win/draw detection, and integration testing |
-| Wajiha Habibullah | 24K-2004 | GUI, game controls, documentation, charts, and integration support |
+| Faiza Usmani | 24K-2006 | MinMax algorithms, testing, and performance analysis |
+| Rabia Hakeem | 24K-2042 | Alpha beta pruning, GUI, Board logic, win/draw detection |
+| Wajiha Habibullah | 24K-2004 | Heuristic evaluation, game controls, documentation |
 
 ## 🔮 Future Improvements
 
