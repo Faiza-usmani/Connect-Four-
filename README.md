@@ -36,8 +36,6 @@ Assigns scores to non-terminal board states using factors such as:
 - Penalties for potential opponent winning patterns.
 - Preference for earlier wins and delayed losses.
 
-### 4. Random Move Baseline
-Selects uniformly from the currently legal columns and serves as a baseline for evaluating the strategic AI.
 
 ## 🛠️ Technologies
 
