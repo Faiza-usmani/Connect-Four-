@@ -17,10 +17,8 @@ This project allows players to play against another human or a computer-controll
 - **Minimax Algorithm:** Evaluate possible future moves to select strategic actions.
 - **Alpha-Beta Pruning:** Reduce unnecessary search by skipping branches that cannot affect the final decision.
 - **Heuristic Evaluation:** Assess board positions based on center-column control, potential winning patterns, and opponent threats.
-- **Difficulty Selection:** Adjust the AI's search depth.
 - **Win and Draw Detection:** Identify winning combinations and drawn games.
 - **Restart Game:** Start a new game whenever desired.
-- **Random AI Baseline:** Compare the strategic AI against an opponent that selects legal moves randomly.
 
 ## 🧠 AI Techniques
 
