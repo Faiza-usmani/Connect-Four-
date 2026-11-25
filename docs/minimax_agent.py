@@ -97,3 +97,4 @@ class MinimaxAgent(Agent):
             if alpha >= beta:
                 break             
         return best
+#written by rabi
