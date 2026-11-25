@@ -26,3 +26,4 @@ class Game:
     @property
     def is_draw(self):
         return self.over and self.winner == 0
+#written by rabi
